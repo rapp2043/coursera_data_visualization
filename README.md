@@ -1,4 +1,4 @@
-# Coursera Courses Dataset Analysis and Visualization
+# Coursera - Course Dataset Analysis and Visualization
 ## Overview
 This repository contains a comprehensive analysis and visualization of the Coursera Courses dataset, which encompasses data about a variety of courses available on Coursera. The dataset comprises approximately 6000 entries, each representing a unique course with multiple attributes detailing the course specifics.
 
